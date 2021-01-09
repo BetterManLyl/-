@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "一、node.js学习\r 参考博客\r 1、node.js学习\r 简单的说 Node.js 就是运行在服务端的 JavaScript。\r https://www.runoob.com/nodejs/nodejs-tutorial.html",
+  "main": "helloworld.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
